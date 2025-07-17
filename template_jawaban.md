@@ -1,8 +1,8 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama:
-- NIM:
+- Nama:Sultan Akhsanuddin Adillah
+- NIM:221080200028
 - Kelas:
 - Repo GitHub: [link]
 
